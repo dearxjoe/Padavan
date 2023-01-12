@@ -1,11 +1,11 @@
-/* ASUS RT-AC1200GU */
+/* Afoundry EW1200 */
 
-#define BOARD_PID		"RT-AC1200GU"
-#define BOARD_NAME		"RT-AC1200GU"
-#define BOARD_DESC		"ASUS RT-AC1200GU Wireless Router"
+#define BOARD_PID		"EW1200"
+#define BOARD_NAME		"EW1200"
+#define BOARD_DESC		"Afoundry EW1200 Wireless Router"
 #define BOARD_VENDOR_NAME	"ASUSTek Computer Inc."
-#define BOARD_VENDOR_URL	"https://www.asus.com.cn/"
-#define BOARD_MODEL_URL		"https://www.asus.com.cn/Networking/RT-AC1200GU/"
+#define BOARD_VENDOR_URL	"https://nas.dearjoe.top/"
+#define BOARD_MODEL_URL		"https://nas.dearjoe.top/"
 #define BOARD_BOOT_TIME		30
 #define BOARD_FLASH_TIME	120
 #define BOARD_GPIO_BTN_RESET	41
